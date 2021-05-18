@@ -1,0 +1,17 @@
+[
+{
+   "empid":"1",
+   "empname":"Chandan",
+   "empaddress":"Meluru"
+},
+{
+   "empid":"2",
+   "empname":"Dihan",
+   "empaddress":"Mysuru"
+},
+{
+   "empid":"3",
+   "empname":"Bharath",
+   "empaddress":"Mandya"
+}
+]
